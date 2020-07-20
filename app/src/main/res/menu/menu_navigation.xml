@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/recent_request_menu"
+        android:title="Recent Request "
+        android:icon="@drawable/ic_help" />
+
+    <item android:id="@+id/mytrip_menu"
+        android:title="My Trip"
+        android:icon="@drawable/ic_trip"/>
+
+</menu>

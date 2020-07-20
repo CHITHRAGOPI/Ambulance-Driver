@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ambulance</string>
+    <string name="login_username_hint">Username</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_submit_text">Login</string>
+    <string name="login_empty_fields">Please Fill the fields</string>
+    <string name="login_error">Invalid Username or Password</string>
+    <string name="title_activity_home">Request</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Logout</string>
+    <string name="title_activity_google_map">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
